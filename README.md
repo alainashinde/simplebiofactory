@@ -1,2 +1,2 @@
-# verysimplebiofactory 
-# simplified initial versions of Biofactory: Biomanufacturing AI Model
+verysimplebiofactory 
+simplified initial versions of Biofactory: Biomanufacturing AI Model
