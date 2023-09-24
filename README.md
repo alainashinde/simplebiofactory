@@ -1,1 +1,1 @@
-simplified initial versions of Biofactory: Biomanufacturing AI Model
+simplified initial versions of Biofactory: Biomanufacturing AI Model; for illustrative purposes only
