@@ -1,1 +1,1 @@
-simplified initial versions of Biofactory: Personalized Biomanufacturing AI Model; for illustrative purposes only
+simplified initial versions of Biofactory: Personalized Biomanufacturing AI Model; utilizes fictitious data for illustrative purposes only
